@@ -1,7 +1,8 @@
 # Welcome to my Profolio-Project
 Here you will see my profolio, where you will
-* learn what I look like and where I am from
-* learn more about me
-* learn how to contact me
+* Learn what I look like and where I am from
+* Learn how I got into Software Engineering
+* Learn more about me
+* Learn how to contact me
 
 I hope you enjoy!
