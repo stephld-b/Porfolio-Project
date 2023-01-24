@@ -1,0 +1,66 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .center-text{
+    text-align: center;
+  }
+  header{
+   background-color: #9e8576;
+    padding: 10px;
+    height:auto;
+  }
+  
+  img{
+    width: 45%;
+  }
+  
+  .image{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+    }
+  
+  h1, h2, h3{
+    font-family: "Courier New";
+  }
+  
+  p, ul{
+    font-family: "Georgia";
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 20px;
+  }
+  
+  main {
+    background-color: #9e8576;
+    padding: 20px;
+    border: 1px
+  }
+  
+  main section{
+    border-top: 1px solid white;
+  } 
+  
+  footer{
+    background-color:  #070707;
+    padding: 20px;
+    margin: 0px;
+    color: white;
+  }
+  
+  a{
+    font-family: "Courier New";
+    font-size: 14px;
+    font-weight: 800;
+    padding: 10px
+  }
+  
+  a:link    { color: #3c1518; text-decoration: none;}
+  a:visited { color: #69140e; text-decoration: none;}
+  a:hover   { color: #a44200; text-decoration: none;}
+  a:active  { color: #540804; text-decoration: none;}
+  
